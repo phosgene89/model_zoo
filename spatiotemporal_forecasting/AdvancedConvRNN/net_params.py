@@ -1,5 +1,5 @@
 from collections import OrderedDict
-from ConvRNN.ConvRNN import CGRU_cell, CLSTM_cell
+from AdvancedConvRNN.ConvRNN import CGRU_cell, CLSTM_cell
 
 
 # build model

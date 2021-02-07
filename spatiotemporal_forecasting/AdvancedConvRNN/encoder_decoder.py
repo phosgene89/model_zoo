@@ -3,7 +3,7 @@ from torch import nn
 import torch.nn.functional as F
 import logging
 
-from ConvRNN.utils import make_layers
+from AdvancedConvRNN.utils import make_layers
 
 class Decoder(nn.Module):
     def __init__(self, subnets, rnns):

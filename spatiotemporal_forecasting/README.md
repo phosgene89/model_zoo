@@ -13,3 +13,4 @@
  * Attention Mechanism on Convolutional LSTMs (https://paperswithcode.com/paper/spatio-temporal-weather-forecasting-and)
  * https://paperswithcode.com/paper/attention-augmented-convlstm-forenvironment
  * https://paperswithcode.com/paper/future-video-synthesis-with-object-motion
+ * https://github.com/google/e3d_lstm

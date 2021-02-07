@@ -1,7 +1,7 @@
 import torch
 
-from ConvRNN.encoder_decoder import *
-from ConvRNN.net_params import convlstm_encoder_params, convlstm_decoder_params, convgru_encoder_params, convgru_decoder_params
+from AdvancedConvRNN.encoder_decoder import *
+from AdvancedConvRNN.net_params import convlstm_encoder_params, convlstm_decoder_params, convgru_encoder_params, convgru_decoder_params
     
 def generate_convlstm(convlstm=True, convgru=False):
     
